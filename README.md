@@ -1,5 +1,5 @@
 # hello-world
 Just another repository
-Hi 
+Hi! 
 
 Richard here, so glad to be here 
